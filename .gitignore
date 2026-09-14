@@ -1,0 +1,12 @@
+﻿node_modules/
+dist/
+.env
+*.db
+*.joblib
+model_metrics.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.streamlit/secrets.toml
